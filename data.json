@@ -1,0 +1,17 @@
+{
+    
+  "availableBanks": [
+    {
+      "id": 1,
+      
+      "accountName": "R H P Chinthaka",
+      "bankName": "Commercial Bank",
+      "branch": "Medawachchiye",
+      "remark": "Use your user NIC as the reference",
+      "accountNumber": "8023488089"
+    }
+    
+  ]
+  
+  }
+  
